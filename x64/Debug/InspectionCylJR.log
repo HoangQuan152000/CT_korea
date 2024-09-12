@@ -1,0 +1,71 @@
+﻿  main.cpp
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\xvtConvert.h(63,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\IInspection.h(271,28): warning C4251: 'xvt::InspectionResult::mPoints': class 'std::vector<cv::Point,std::allocator<cv::Point>>' needs to have dll-interface to be used by clients of class 'xvt::InspectionResult'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\OpenCV\4.3.0\include\opencv2\imgproc.hpp(4586): message : see declaration of 'std::vector<cv::Point,std::allocator<cv::Point>>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\IInspection.h(274,17): warning C4251: 'xvt::InspectionResult::mDateTime': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'xvt::InspectionResult'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\IInspection.h(276,17): warning C4251: 'xvt::InspectionResult::mROI': class 'cv::Rect_<int>' needs to have dll-interface to be used by clients of class 'xvt::InspectionResult'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\OpenCV\4.3.0\include\opencv2\core\types.hpp(459): message : see declaration of 'cv::Rect_<int>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\IInspection.h(278,17): warning C4251: 'xvt::InspectionResult::mMsg': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'xvt::InspectionResult'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(21,35): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(21,61): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(22,38): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(22,64): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(28,35): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(28,61): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(29,38): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(29,64): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(314,16): warning C4251: 'xvt::Drawing::color': class 'cv::Scalar_<double>' needs to have dll-interface to be used by clients of class 'xvt::Drawing'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\OpenCV\4.3.0\include\opencv2\core\types.hpp(669): message : see declaration of 'cv::Scalar_<double>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(322,31): warning C4251: 'xvt::Drawing::limit_X': struct 'std::pair<double,double>' needs to have dll-interface to be used by clients of class 'xvt::Drawing'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(322): message : see declaration of 'std::pair<double,double>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(323,31): warning C4251: 'xvt::Drawing::limit_Y': struct 'std::pair<double,double>' needs to have dll-interface to be used by clients of class 'xvt::Drawing'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(322): message : see declaration of 'std::pair<double,double>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(112,89): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Drawing.h(112,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Peak.h(133,24): warning C4251: 'xvt::FindPeaks::mSignal': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'xvt::FindPeaks'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\OpenCV\4.3.0\include\opencv2\imgproc.hpp(3079): message : see declaration of 'std::vector<float,std::allocator<float>>'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Peak.h(136,23): warning C4251: 'xvt::FindPeaks::mPeakList': class 'std::vector<xvt::Peak,std::allocator<xvt::Peak>>' needs to have dll-interface to be used by clients of class 'xvt::FindPeaks'
+C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\XavisTech\include\xvtCV\Peak.h(36): message : see declaration of 'std::vector<xvt::Peak,std::allocator<xvt::Peak>>'
+  InspectionCylJR.vcxproj -> C:\Users\PC2-2\Desktop\4_9\CylJR_4_9\x64\Debug\InspectionCylJR.exe
